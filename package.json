@@ -1,0 +1,25 @@
+{
+  "name": "algorithms-in-js",
+  "version": "1.0.0",
+  "description": "A collection of algorithm implementations in vanilla js.",
+  "main": "binary_search_recursion.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickardRanniger/algorithms-in-js.git"
+  },
+  "author": "Rickard Ranniger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickardRanniger/algorithms-in-js/issues"
+  },
+  "homepage": "https://github.com/RickardRanniger/algorithms-in-js#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
