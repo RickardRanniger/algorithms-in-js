@@ -1,9 +1,9 @@
 # Algorithms in js
 
-A collection of algorithms written in Javscript.
+A collection of algorithms written in Javascript.
 
 ---
-## Fibonacci (fibonacci.js)
+## Fibonacci ( [fibonacci.js](https://github.com/RickardRanniger/algorithms-in-js/blob/main/fibonacci.js) )
 Two implementations of the fibonacci algorithm. With and without recursion
 
 |n|fibonacci|
@@ -23,7 +23,7 @@ Two implementations of the fibonacci algorithm. With and without recursion
 |||
 
 
-## Find optimal combination (find_optimal_combination.js)
+## Find optimal combination ( [find_optimal_combination.js](https://github.com/RickardRanniger/algorithms-in-js/blob/main/find_optimal_combination.js) )
 Find the optimal combination of an infinite set of numbers to match the target. It perfoms pretty performant on fairly small sets. Max depth is set to 15 which give you the best solution in an overwhelming amount of cases.
 
 |function|Time Complexity|
